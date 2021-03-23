@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sturdy-pivot-285911",
+  "private_key_id": "49ea25452c6e6e6ce1036b207064deb9e1d1ff87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTqxcFLzKe4R3a\nCJ7mA9pFtOSOafcYf1kCSw/Pdq/Tpk0YpthjWVTbhj7ZLqpI8DlW7cXmIo2Joypf\nKrsCUyTmjIdzOw3EDZKmFH3/fM4fSNQhtFCFkUOm7MO4DbSY3KvBu18EYxCwlDRI\nSoy8C9UZDj3yHcoCqKI48WBM94tsSHvmklrC06NyVpeDcygwTYOZO2VuwPUiP+Wg\nU+tm9PpBzutkkUnS4H6kN/TQHkDJzlBxZQ5gDn3/bzrjA4nf6+wOfcFbbtKDCMCo\nPR5cvkHhjyyOCqDMrv5fYQWKqC7JyAd1xwhu7gwLKJLq6JE8zTGKsac7TcTd1gwr\nmHsw9/0lAgMBAAECggEAMFPvokY6mm3Rj8B/hIbhQiv8GzHJ6S4QauQ3Be5xh+Km\n27kLG6SqVXgfjIOtvlZEZdNGj9ViHhgU73V0I8QjUQLP96HtlOreQlV1kQ5/BRUY\nO/mf2r7adcCKI2v03Yxm9+4DIFPtq+StIbWoTojO0rbrBhjCutEG2n0Ax9/CNQsa\neSR5iM7GmSnk3Gt4Vr2KieZtczwyhf1E4DWbEtP0TcDEB3hpvBaegi2i7y+ueeEG\n1Y1tMtoebSI9GtVmT3vlORNIbqwbKd+HCvJC29Pei7/N7kPCDI0XgKQOd0xU3jG8\n5AOiJ7zl0DkI4eBZ3/dmf/7QU+QQo8WNpC6erAViNwKBgQDMYVHCGiif99Raj6da\nb2qMTPypuWD8Jizeh/x0ZvMQoA1EMQ/AIGO3yxWiiqzDPIMjQ4/NgEbPHN9ZQlue\nvAWOiWgsHu3P7qislXQafrCf3eqR81pUoND4/UFBmHpCviT7iLa4otUMeoIWFCGY\nAFZudJu0zsJzDex+xCKGd/DzRwKBgQC49u7pxQRrBrpVwC1CsI3fv+m8Ywql6rdu\nCJxdkO3FEJVVP6/bfFTeeJj0HqIpZ8xMgkq8+Iri0dIICQzhN5pgA8Y5KPJymeGc\nMuZzVqvewkYPZh9G05WMMVe8aRJtLphMLyH8e4m0iue56IphMnh2mTM9LIwHhWuO\nOxlfnbNKMwKBgE6AArse+QOYWQP/sTPXH4GMAG/gOBQhRZKjgJ/k+u8jynSqs3YD\n+skZQ9IOmZTTpTriNFWmM4xRdqf+CNrLNQcuV8i6iHUZIchIDzQt/QEqZ3Jvmf5v\nVlSMUYg0XKFODz5doHECefo1A8ofKVgMqSX7u+KSl7VBX9jA1NH5N575AoGADKtV\nWAvXrqEKWF9Oelfvj9jsYKwECbNXFyFd3IbV0n69S9aN7CHLCmYGTAphHybt9nui\nNOltUfX/Re+gwzh0yYjYpgeo+7KQootV/6Z7JUn3VIyxLb/GaZDjqpMj4PilE+rS\nkCHCH+y3zKMh/2BeofkCanlHqig4Ysinh0YdBsMCgYAM8R37/aVhrv4h8Z339XSQ\n+LVsN/DL/T4MLWjVenW349MBMGCBDWQEu5HxiXHNaFY7s/SiHTrsXf5sUwIQclLK\nAYwW7MzkN+k6btNfllnsVtsMRcXMZCjMZm+Lr4wn8eOZgzT9CJQznv4feG9c+nyg\nZaj1JqPLGdErl6SXXFQc9Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ogani-service@sturdy-pivot-285911.iam.gserviceaccount.com",
+  "client_id": "100405752517277830470",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ogani-service%40sturdy-pivot-285911.iam.gserviceaccount.com"
+}
