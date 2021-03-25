@@ -28,7 +28,7 @@ SECRET_KEY = 'yf4wk1i8uko8b1ji*ukh8zr)9*$_@1ljufx5%%*^87hyo76kjo'
 DEBUG = True
 PROJECT_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir)
 
-ALLOWED_HOSTS = ['45.79.248.251', '127.0.0.1', 'sturdy-pivot-285911.ey.r.appspot.com']
+ALLOWED_HOSTS = ['45.79.248.251', '127.0.0.1', 'sturdy-pivot-285911.ey.r.appspot.com', 'localhost']
 
 
 # Application definition
@@ -154,23 +154,26 @@ USE_L10N = True
 USE_TZ = True
 
 
-DEFAULT_FILE_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
-STATICFILES_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
+# DEFAULT_FILE_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
+# STATICFILES_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
 
-GS_PROJECT_ID = 'sturdy-pivot-285911'
-GS_BUCKET_NAME = 'ogani-bucket'
+# GS_PROJECT_ID = 'sturdy-pivot-285911'
+# GS_BUCKET_NAME = 'ogani-bucket'
 
-GS_CREDENTIALS = service_account.Credentials.from_service_account_file(
-    os.path.join(BASE_DIR, 'My First Project-49ea25452c6e.json'))
-# GOOGLE_APPLICATION_CREDENTIALS = service_account.Credentials.from_service_account_file(
+# GS_CREDENTIALS = service_account.Credentials.from_service_account_file(
 #     os.path.join(BASE_DIR, 'My First Project-49ea25452c6e.json'))
-GS_DEFAULT_ACL = 'publicRead'
+# # GOOGLE_APPLICATION_CREDENTIALS = service_account.Credentials.from_service_account_file(
+# #     os.path.join(BASE_DIR, 'My First Project-49ea25452c6e.json'))
+# GS_DEFAULT_ACL = 'publicRead'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = 'static/'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static/')
+]
+# STATIC_ROOT = 'static/'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = 'media/'

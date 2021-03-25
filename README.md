@@ -2,23 +2,23 @@
 
 Ecommerce website built with Django 3.0.8, Python 3.8.2 and hosted on Linode
 
-![image](https://raw.githubusercontent.com/ajawu/ecommerce_ogani/master/site_images/home.png)
+![image](https://raw.githubusercontent.com/f-gozie/ecommerce_ogani/master/site_images/home.png)
 
 #### Product List
 
-![image](https://raw.githubusercontent.com/ajawu/ecommerce_ogani/master/site_images/products_list.png)
+![image](https://raw.githubusercontent.com/f-gozie/ecommerce_ogani/master/site_images/products_list.png)
 
 #### Product Detail
-![image](https://raw.githubusercontent.com/ajawu/ecommerce_ogani/master/site_images/product_details.png)
+![image](https://raw.githubusercontent.com/f-gozie/ecommerce_ogani/master/site_images/product_details.png)
 
 #### Cart Page
-![image](https://raw.githubusercontent.com/ajawu/ecommerce_ogani/master/site_images/cart.png)
+![image](https://raw.githubusercontent.com/f-gozie/ecommerce_ogani/master/site_images/cart.png)
 
 #### Cart Page
-![image](https://raw.githubusercontent.com/ajawu/ecommerce_ogani/master/site_images/checkout.png)
+![image](https://raw.githubusercontent.com/f-gozie/ecommerce_ogani/master/site_images/checkout.png)
 
 #### Payment Page
-![image](https://raw.githubusercontent.com/ajawu/ecommerce_ogani/master/site_images/payment.png)
+![image](https://raw.githubusercontent.com/f-gozie/ecommerce_ogani/master/site_images/payment.png)
 
 # Installation
 
@@ -31,7 +31,7 @@ Ecommerce website built with Django 3.0.8, Python 3.8.2 and hosted on Linode
 
 `sudo apt-get install libgtk-3-dev`
 
-`git clone https://github.com/ajawu/ecommerce_ogani.git`
+`git clone https://github.com/f-gozie/ecommerce_ogani.git`
 
 `cd ecommerce_ogani/`
 
